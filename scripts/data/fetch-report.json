@@ -1,0 +1,16 @@
+{
+ "sourceUrl": "https://raw.githubusercontent.com/2BingLing/dsh-market/master/data/plugins.json",
+ "sourceGeneratedAt": "2026-11-16T00:33:26.750Z",
+ "sourceSha256": "37e1fec23feffe3cd032a0feb0a0f934b48765c2e6a4b1ce27fc7a013e2a3340",
+ "sourceTotal": 21808,
+ "limit": 500,
+ "includedCount": 500,
+ "readmeFetched": 498,
+ "skillFetched": 11,
+ "nonHttpFailures": [],
+ "skipRemote": false,
+ "durationSeconds": 978.2,
+ "fetchedAt": "2026-11-16T04:46:40.881210Z",
+ "outputPath": "/home/hatch/workspace/portfolio-products/dsh-plugin-picker/public/data/plugins.json",
+ "outputBytes": 677059
+}
