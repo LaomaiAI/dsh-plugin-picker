@@ -7,7 +7,7 @@ it is hard to tell which one is any good. This site ranks plugins by four code-c
 metrics - use-case category, context usage, update activity, and README completeness -
 not by stars.
 
-Live demo: not deployed yet; the real link will be added after deployment.
+Live demo: https://laomaiai.github.io/dsh-plugin-picker/
 
 ## 2. The problem it solves
 

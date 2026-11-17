@@ -5,7 +5,7 @@
 官方插件中心没有分类，3.5 万个 DeepSeek Harness 插件不知道哪个好用。这个站按用途分类、
 上下文占用、更新活跃度、README 完整度四项代码可算的指标打分排序，不按 star 排。
 
-在线演示：尚未部署，部署后填真实链接。
+在线演示：https://laomaiai.github.io/dsh-plugin-picker/
 
 ## 2. 它解决什么问题
 
